@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ParkingLot/v14
+/ParkingLot/bin/Debug
+/ParkingLot/obj/Debug
+/ParkingLotLogic/bin/Debug
+/ParkingLotLogic/obj/Debug
+/ParkingLotModels/bin/Debug
+/ParkingLotModels/obj/Debug
